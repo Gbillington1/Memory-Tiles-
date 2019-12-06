@@ -1,4 +1,4 @@
-# Memory-Tiles-
+# Memory-Tiles
 A Memory Tiles game created by me (Graham Billington) in the Khan Academy advanced Javascript course.
 
 Khan Academy limits some aspects of JavaScript and is equip with the Processing.js library that was depricated in December of 2018.
